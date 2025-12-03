@@ -1,0 +1,1 @@
+[exercie 1](https://github.com/Ibrahim-Abdirashid/dbase/tree/master/exercise1)
