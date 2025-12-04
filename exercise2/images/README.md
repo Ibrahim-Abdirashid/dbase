@@ -1,0 +1,5 @@
+![exercise 2](/exercise2/images/one.png)
+![exercise 2](/exercise2/images/two.png)
+![exercise 2](/exercise2/images/three.png)
+![exercise 2](/exercise2/images/four.png)
+![exercise 2](/exercise2/images/five.png)
