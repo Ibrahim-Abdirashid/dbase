@@ -3,3 +3,4 @@
 [exercie 3](https://github.com/Ibrahim-Abdirashid/dbase/tree/master/exercise3)
 [exercie 4](https://github.com/Ibrahim-Abdirashid/dbase/tree/master/exercise4)
 [exercie 5](https://github.com/Ibrahim-Abdirashid/dbase/tree/master/exercise5)
+[exercie 7](https://github.com/Ibrahim-Abdirashid/dbase/tree/master/exercise7)
